@@ -3,7 +3,7 @@ Submitted by: Riley Dou
 
 **ColorSense** is a color detection app designed to analyze and identify the dominant RGB color in any background. Whether you're a designer, artist, or simply someone fascinated by colors, ColorSense provides an innovative way to explore and understand the predominant hues around you.
 
-Time spent: 6 hours spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 The following required functionality is completed:
